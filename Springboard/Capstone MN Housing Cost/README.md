@@ -40,7 +40,7 @@ After acquiring housing price data from Kaggle/Redfin for the Minneapolis/St.Pau
 
 
 
-A total of 8 different models were optimized and compared. First the best fit linear regression model was used as a baseline to compare the other models to. The models were all optimized to MAE, and were compared at different price ranges using MAPE. 
+A total of 8 different models were optimized and compared. First the best fit linear regression model was used as a baseline to compare the other models to. The models were all optimized to MAE, and were compared at different price ranges using MAPE.
 
 
 
@@ -92,15 +92,11 @@ Optimizer was Adam
 
 ##### Data Source:
 
-https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
+https://www.kaggle.com/datasets/soulaimanebenayad/united-states-redfin-housing-market-csv
 
 
 
 ##### Jupyter Notebook for Models:
 
 MN\_Housing\_Modeling.ipynb
-
-
-
-
 
